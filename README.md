@@ -1,7 +1,8 @@
 # py_rev_
 A python revision
 
-For this revision we folow the book py4Everbody_full by Severance.
-The directories are named py4eb_mn_about wherw mn is the chapter.
+For this revision the directories represent:
+    py4eb: the book py4Everbody_full by Severance.
+
 
 
